@@ -16,5 +16,5 @@ Compatible with:
 - Warlocks
 - Enhancement Shaman
 
-You can check which recourses are considered as primary see:
+To check which recourses are considered as primary, see:
 ![WOW resource types](./resources.png)

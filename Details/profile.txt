@@ -1,0 +1,2 @@
+Jak ziomek naprawi lua errory to sie pojawi.
+Na razie se ustaw ten Blizzardowy.

@@ -14,6 +14,8 @@
 1. [Chonky Character Sheet](https://www.curseforge.com/wow/addons/chonky-character-sheet)
 1. [Cooldown Manager Centered](https://www.curseforge.com/wow/addons/cooldown-manager-centered)
    - [Profiles](./CooldownManagerCentered/)
+1. [DandersFrames](https://www.curseforge.com/wow/addons/danders-frames)
+   - [Profiles](./DandersFrames/)
 1. [Details! Damage Meter](https://www.curseforge.com/wow/addons/details)
    - [Details! Damage Meter Mythic+](https://www.curseforge.com/wow/addons/details-damage-meter-mythic)
    - [Profiles](./Details/)

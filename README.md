@@ -10,7 +10,6 @@
 1. [BlizzMove](https://www.curseforge.com/wow/addons/blizzmove)
 1. [BugGrabber](https://www.curseforge.com/wow/addons/bug-grabber)
 1. [BugSack](https://www.curseforge.com/wow/addons/bugsack)
-1. [Cell (WIP)](https://www.curseforge.com/wow/addons/cell)
 1. [Chattynator](https://www.curseforge.com/wow/addons/chattynator)
 1. [Chonky Character Sheet](https://www.curseforge.com/wow/addons/chonky-character-sheet)
 1. [Cooldown Manager Centered](https://www.curseforge.com/wow/addons/cooldown-manager-centered)

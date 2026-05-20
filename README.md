@@ -30,6 +30,8 @@
 1. [Northern Sky Raid Tools](https://www.curseforge.com/wow/addons/northern-sky-raid-tools)
 1. [OPie](https://www.curseforge.com/wow/addons/opie)
    - [Profiles](./OPie/)
+1. [Plater](https://www.curseforge.com/wow/addons/plater-nameplates)
+   - [Profile](./Plater)
 1. [Platynator](https://www.curseforge.com/wow/addons/platynator)
    - [Profiles](./Platynator/)
 1. [Premade Groups Filter](https://www.curseforge.com/wow/addons/premade-groups-filter)

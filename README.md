@@ -32,8 +32,6 @@
    - [Profiles](./OPie/)
 1. [Plater](https://www.curseforge.com/wow/addons/plater-nameplates)
    - [Profile](./Plater)
-1. [Platynator](https://www.curseforge.com/wow/addons/platynator)
-   - [Profiles](./Platynator/)
 1. [Premade Groups Filter](https://www.curseforge.com/wow/addons/premade-groups-filter)
 1. [RCLootCouncil](https://www.curseforge.com/wow/addons/rclootcouncil)
 1. [SavedInstances](https://www.curseforge.com/wow/addons/saved_instances)
